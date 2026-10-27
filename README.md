@@ -3,7 +3,7 @@ My First Repository
 
 # My Favorite Movie: 10 Things I Hate About You 🎬
 
-![10 Things I Hate About You](https://upload.wikimedia.org/wikipedia/en/4/49/10_Things_I_Hate_About_You_film.jpg)
+![10 Things I Hate About You]([https://upload.wikimedia.org/wikipedia/en/4/49/10_Things_I_Hate_About_You_film.jpg](https://www.imdb.com/title/tt0147800/ratings/?ref_=ext_shr_lnk))
 
 ## About the Movie
 
